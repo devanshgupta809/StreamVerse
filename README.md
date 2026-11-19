@@ -7,8 +7,7 @@ It uses the **TMDB (The Movie Database) API** to fetch real-time movie data and 
 
 ## 🚀 Live Preview
 
-https://shivansgupta25.github.io/StreamVerse/
-
+https://devanshgupta809.github.io/StreamVerse/
 ---
 
 ## ✨ Features
